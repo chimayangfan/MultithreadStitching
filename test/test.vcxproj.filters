@@ -14,4 +14,25 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\..\Master%27s_thesis\Codes\11.5\test\test\test.cu">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Master%27s_thesis\Codes\11.5\test\test\RingBuffer.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Master%27s_thesis\Codes\11.5\test\test\test.cpp">
+      <Filter>源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\..\Master%27s_thesis\Codes\11.5\test\test\RingBuffer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\..\Master%27s_thesis\Codes\11.5\test\test\main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>

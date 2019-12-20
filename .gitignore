@@ -240,3 +240,6 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/test/vedio_save.avi
+/test/video_left.mp4
+/test/video_right.mp4
